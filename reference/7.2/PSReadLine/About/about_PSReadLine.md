@@ -140,8 +140,7 @@ $parameters = @{
 Set-PSReadLineKeyHandler @parameters
 ```
 
-You can see many more examples in the file `SamplePSReadLineProfile.ps1`, which
-is installed in the **PSReadLine** module folder.
+You can see many more examples in the file [SamplePSReadLineProfile.ps1](https://github.com/PowerShell/PSReadLine/blob/master/PSReadLine/SamplePSReadLineProfile.ps1).
 
 Most key bindings use some helper functions for editing the command line. Those
 APIs are documented in
